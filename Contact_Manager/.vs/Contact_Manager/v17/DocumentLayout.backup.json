@@ -7,9 +7,6 @@
       "RelativeMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|solutionrelative:contact_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\velmurugan.kl\\Documents\\C#\\Todo\\Todo_Refactor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F960894E-3DEF-4557-9B62-DB6B3075550A}|Testing\\Testing.csproj|c:\\users\\velmurugan.kl\\desktop\\backend\\assignment_1\\contact_manager\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F960894E-3DEF-4557-9B62-DB6B3075550A}|Testing\\Testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -21,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\velmurugan.kl\\Documents\\C#\\Todo\\Todo_Refactor\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\C#\\Todo\\Todo_Refactor\\Program.cs",
-              "ToolTip": "C:\\Users\\velmurugan.kl\\Documents\\C#\\Todo\\Todo_Refactor\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Documents\\C#\\Todo\\Todo_Refactor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:13:06.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velmurugan.kl\\Desktop\\Backend\\Assignment_1\\Contact_Manager\\Testing\\Program.cs",
               "RelativeDocumentMoniker": "Testing\\Program.cs",
@@ -55,9 +39,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velmurugan.kl\\Desktop\\Backend\\Assignment_1\\Contact_Manager\\Contact_Manager\\Program.cs",
               "RelativeDocumentMoniker": "Contact_Manager\\Program.cs",
-              "ToolTip": "C:\\Users\\velmurugan.kl\\Desktop\\Backend\\Assignment_1\\Contact_Manager\\Contact_Manager\\Program.cs",
-              "RelativeToolTip": "Contact_Manager\\Program.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAqwFkAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\velmurugan.kl\\Desktop\\Backend\\Assignment_1\\Contact_Manager\\Contact_Manager\\Program.cs*",
+              "RelativeToolTip": "Contact_Manager\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T09:14:31.448Z",
               "EditorCaption": ""
