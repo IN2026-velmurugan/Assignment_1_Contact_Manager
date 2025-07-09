@@ -1,0 +1,103 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ContactManager
+{
+    internal class Functionalities
+    {
+        public void ViewContacts(List<ContactsInfo> contactsList)
+        {
+            Console.WriteLine();
+            string choice;
+            do
+            {
+                Console.WriteLine("Select from the below option\n");
+                Console.WriteLine("A - To view all contacts");
+                Console.WriteLine("N - To Search Contact by Name");
+                Console.WriteLine("P - To Search Contact by Phone Number");
+                Console.WriteLine("E - To go Back to Main Menu");
+                choice = Console.ReadLine().ToUpper();
+
+            }
+            while (!new Utilities().IsValidSearchChoice(choice));
+
+            switch (choice)
+            {
+                case "A":
+                    DisplayAllContacts(contactsList);
+                    break;
+                case "N":
+                    new Services().DisplayUser(new Services().FindByName(Console.ReadLine(), contactsList), contactsList);
+                    break;
+                case "P":
+                    string phone = new Services().GetNumber();
+                    new Services().DisplayUser(new Services().FindByPhone(phone, contactsList), contactsList);
+                    break;
+                default:
+                    return;
+            }
+        }
+
+        public void DisplayAllContacts(List<ContactsInfo> contactsList)
+        {
+            for (int i = 0; i < contactsList.Count; i++)
+            {
+                new Services().DisplayUserInfo(contactsList[i]);
+
+            }
+            Console.WriteLine();
+        }
+        public void AddContact(List<ContactsInfo> contactsList)
+        {
+            string name;
+            string phone;
+            string mail;
+            string notes;
+            name = new Services().GetName(contactsList);
+            phone = new Services().GetNumber();
+            mail = new Services().GetMailId();
+            Console.WriteLine("Write any notes about the contact(optional)");
+            notes = Console.ReadLine();
+
+            ContactsInfo obj = new ContactsInfo(name, mail, phone, notes);
+            contactsList.Add(obj);
+        }
+
+        public void UpdateContact(List<ContactsInfo> contactsList)
+        {
+            DisplayAllContacts(contactsList);
+            Console.WriteLine();
+            string userInput;
+            int index = -1;
+            do
+            {
+                Console.WriteLine("Enter the contact detail that you need to update");
+                userInput = Console.ReadLine();
+                index = new Services().SearchContacts(contactsList, userInput);
+            }
+            while (userInput.Length == 0);
+            new Services().UpdateContactInfo(index, contactsList);
+
+        }
+
+        public void DeleteContact(List<ContactsInfo> contactsList)
+        {
+            DisplayAllContacts(contactsList);
+            Console.WriteLine();
+            string userInput;
+            int index = -1;
+            do
+            {
+                Console.WriteLine("Enter the contact detail that you need to delete");
+                userInput = Console.ReadLine();
+                index = new Services().SearchContacts(contactsList,userInput);
+            }
+            while (userInput.Length == 0);
+            new Services().DeleteUser(index, contactsList);
+
+        }
+    }
+}

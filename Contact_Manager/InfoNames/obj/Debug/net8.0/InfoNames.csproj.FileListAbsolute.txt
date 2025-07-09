@@ -1,0 +1,12 @@
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\bin\Debug\net8.0\InfoNames.deps.json
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\bin\Debug\net8.0\InfoNames.dll
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\bin\Debug\net8.0\InfoNames.pdb
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\obj\Debug\net8.0\InfoNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\obj\Debug\net8.0\InfoNames.AssemblyInfoInputs.cache
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\obj\Debug\net8.0\InfoNames.AssemblyInfo.cs
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\obj\Debug\net8.0\InfoNames.csproj.CoreCompileInputs.cache
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\obj\Debug\net8.0\InfoNames.sourcelink.json
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\obj\Debug\net8.0\InfoNames.dll
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\obj\Debug\net8.0\refint\InfoNames.dll
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\obj\Debug\net8.0\InfoNames.pdb
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\InfoNames\obj\Debug\net8.0\ref\InfoNames.dll

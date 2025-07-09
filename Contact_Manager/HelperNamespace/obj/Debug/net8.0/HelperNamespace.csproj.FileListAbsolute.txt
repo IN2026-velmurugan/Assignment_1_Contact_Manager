@@ -1,0 +1,16 @@
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\bin\Debug\net8.0\HelperNamespace.deps.json
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\bin\Debug\net8.0\HelperNamespace.dll
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\bin\Debug\net8.0\HelperNamespace.pdb
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\bin\Debug\net8.0\InfoNames.dll
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\bin\Debug\net8.0\InfoNames.pdb
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\HelperNamespace.csproj.AssemblyReference.cache
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\HelperNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\HelperNamespace.AssemblyInfoInputs.cache
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\HelperNamespace.AssemblyInfo.cs
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\HelperNamespace.csproj.CoreCompileInputs.cache
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\HelperNamespace.sourcelink.json
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\HelperNa.0A3C3DA0.Up2Date
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\HelperNamespace.dll
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\refint\HelperNamespace.dll
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\HelperNamespace.pdb
+C:\Users\velmurugan.kl\Desktop\Backend\Assignment_1\Contact_Manager\HelperNamespace\obj\Debug\net8.0\ref\HelperNamespace.dll
