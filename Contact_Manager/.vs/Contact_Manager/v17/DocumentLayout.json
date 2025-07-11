@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|c:\\users\\velmurugan.kl\\desktop\\backend_2\\assignment_1\\contact_manager\\contact_manager\\contactsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|solutionrelative:contact_manager\\contactsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F960894E-3DEF-4557-9B62-DB6B3075550A}|Testing\\Testing.csproj|c:\\users\\velmurugan.kl\\desktop\\backend_2\\assignment_1\\contact_manager\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F960894E-3DEF-4557-9B62-DB6B3075550A}|Testing\\Testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|c:\\users\\velmurugan.kl\\desktop\\backend_2\\assignment_1\\contact_manager\\contact_manager\\functionalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|solutionrelative:contact_manager\\functionalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\ContactsInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contact_Manager\\ContactsInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|c:\\users\\velmurugan.kl\\desktop\\backend_2\\assignment_1\\contact_manager\\contact_manager\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|solutionrelative:contact_manager\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\Functionalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contact_Manager\\Functionalities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|c:\\users\\velmurugan.kl\\desktop\\backend_2\\assignment_1\\contact_manager\\contact_manager\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|solutionrelative:contact_manager\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\Utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contact_Manager\\Utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|c:\\users\\velmurugan.kl\\desktop\\backend_2\\assignment_1\\contact_manager\\contact_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4463E17E-8F1D-40B3-9318-30B2C4AB90C3}|Contact_Manager\\Contact_Manager.csproj|solutionrelative:contact_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\Services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contact_Manager\\Services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contact_Manager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Testing\\Program.cs",
+              "RelativeDocumentMoniker": "Testing\\Program.cs",
+              "ToolTip": "C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Testing\\Program.cs",
+              "RelativeToolTip": "Testing\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:35:06.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Functionalities.cs",
               "DocumentMoniker": "C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\Functionalities.cs",
               "RelativeDocumentMoniker": "Contact_Manager\\Functionalities.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "Contact_Manager\\Functionalities.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T09:59:55.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T09:59:55.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Utilities.cs",
               "DocumentMoniker": "C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\Utilities.cs",
               "RelativeDocumentMoniker": "Contact_Manager\\Utilities.cs",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "Contact_Manager\\Utilities.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T07:23:18.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T07:23:18.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Services.cs",
               "DocumentMoniker": "C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\Services.cs",
               "RelativeDocumentMoniker": "Contact_Manager\\Services.cs",
@@ -68,12 +83,11 @@
               "RelativeToolTip": "Contact_Manager\\Services.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:09:33.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T06:09:33.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\Program.cs",
               "RelativeDocumentMoniker": "Contact_Manager\\Program.cs",
@@ -81,21 +95,18 @@
               "RelativeToolTip": "Contact_Manager\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T09:14:31.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T09:14:31.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContactsInfo.cs",
               "DocumentMoniker": "C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\ContactsInfo.cs",
               "RelativeDocumentMoniker": "Contact_Manager\\ContactsInfo.cs",
               "ToolTip": "C:\\Users\\velmurugan.kl\\Desktop\\Backend_2\\Assignment_1\\Contact_Manager\\Contact_Manager\\ContactsInfo.cs",
               "RelativeToolTip": "Contact_Manager\\ContactsInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:21:56.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T06:21:56.731Z"
             }
           ]
         }

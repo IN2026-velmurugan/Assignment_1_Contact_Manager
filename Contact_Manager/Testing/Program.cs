@@ -37,6 +37,8 @@ void DisplayContactInfo()
             $" -- number of the person {contactInfo.GetValueAtIndex(i).phone}");
     }
 }
+
+DateTime today = new DateTime();
 void AddContact()
 {
     Console.WriteLine("Enter the Phone number");
